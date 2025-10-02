@@ -1,0 +1,11 @@
+#button{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+#svg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
